@@ -49,5 +49,5 @@ module project_tb();
         Enter=0;
         #99;
         $finish;
-    end
+    end 
 endmodule
